@@ -1,0 +1,5 @@
+pygame>=2.5
+numpy
+soundcard
+cryptography
+pywin32; sys_platform == "win32"

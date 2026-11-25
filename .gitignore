@@ -1,0 +1,16 @@
+# Build output
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Player save files
+idle_defender_save.dat
+idle_defender_save.json
+
+# Steam runtime files
+steam_appid.txt
+*.dll
+
+# Local tool settings
+.claude/
