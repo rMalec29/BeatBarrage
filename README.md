@@ -2,7 +2,7 @@
 
 **An idle tower-defence game that plays your music.** Beat Barrage sits in a corner of your screen, always on top of your other windows. It listens to whatever is playing on your computer and turns the bass, mids and highs into attacks.
 
-![Beat Barrage gameplay](docs/gameplay.gif)
+![Beat Barrage gameplay](gameplay.gif)
 
 *Gameplay capture: the turntable core fires on each kick drum as enemies close in.*
 
